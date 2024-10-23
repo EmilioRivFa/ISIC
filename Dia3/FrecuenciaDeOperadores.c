@@ -6,6 +6,7 @@ int main (){
     int w =3;
     int x =9;
     int y =6;
+    int o =7;
     int z;
     z=p * r % q + w / x - y;
      printf ("z : %d\n", z);

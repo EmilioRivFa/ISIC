@@ -8,5 +8,4 @@ int main (){
     printf("%d", una_variable);
     printf ("\n");
     return 0;
-
 }

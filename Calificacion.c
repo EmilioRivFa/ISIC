@@ -4,6 +4,6 @@ int main (){
     puts("Introduce tu calificacion");
     scanf ("%d", &calif);
     if(calif>=70){
-        printf("Felicidades Aprobaste el curso");
+        printf("Felicidades Aprobaste el curso, sigue asi");
     }
 }

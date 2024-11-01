@@ -15,6 +15,4 @@ void loop() {
         osciloscopio.outputDigital(0);
         delayMicroseconds(500);
     }
-    
-
 }

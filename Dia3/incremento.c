@@ -3,7 +3,6 @@
 int main (){
     int var = 1;
     int con = 1;
-
     printf("%d", var++);
     printf("%d", var);
 

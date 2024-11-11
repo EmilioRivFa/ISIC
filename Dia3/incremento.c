@@ -6,7 +6,6 @@ int main (){
     printf("%d", var++);
     printf("%d", var);
 
-
     printf("%d",con--);
     printf("%d",con);
 
